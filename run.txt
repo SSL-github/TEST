@@ -1,0 +1,2 @@
+python inference.py --file_path data --binary_model ./model/201217_133108_binary_100.hdf5 --multiclass_model ./model/201220_130749_categorical_100.hdf5
+
